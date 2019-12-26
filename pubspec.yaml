@@ -1,6 +1,6 @@
 name: paytm
-description: A new Flutter plugin.
-version: 0.0.4
+description: A Flutter plugin to use the Paytm as a gateway for accepting online paymnets in Flutter app.
+version: 1.0.0
 author: "Dishant Mahajan <mr.dishantmahajan@gmail.com>"
 homepage: "https://github.com/mrdishant/Paytm-Flutter-Plugin"
 
